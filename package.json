@@ -7,17 +7,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/eriocl/hexlet-js.git"
-  },
   "author": "Alex B.",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/eriocl/hexlet-js/issues"
   },
   "homepage": "https://github.com/eriocl/hexlet-js#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "prettier": "^2.2.1"
   }
 }
